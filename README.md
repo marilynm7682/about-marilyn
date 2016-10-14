@@ -1,27 +1,52 @@
-Marilyn Morales
+# Marilyn Morales  
 
-Student
 
-High school of Telecommunication Art and Technology 
+## High school of Telecommunication Art and Technology 
 
-marilynm7682@hstat.org
 
-Marilyn loves to read books and her favorite color is red. She enjoys listening to music and likes to draw on her free time. In the future Marilyn wants to study criminal justice.
+#### **Student** 
 
-Schedule
 
-1: Software Engeneering 
+[Marilyn's Email](marilynm7682@hstat.org)
 
-2: Earth Science
 
-3: Gym
+_Marilyn was born in brooklyn in the neighborhood of Sunset Park. She has a dog which she loves. In the future Marilyn wants to study criminal justice._
 
-4: Algebra/trig
 
-5: Ap Spanish
+**Things Marilyn enjoys doing on her free time**
 
-6: American Literature
 
-7: U.S History
+* _Read books_
 
-8: Lunch
+
+* _listening to music_
+
+
+* _Drawing_
+
+
+#### **Schedule**
+
+
+###### 1: Software Engeneering 
+
+
+###### 2: Earth Science
+
+
+###### 3: Gym
+
+
+###### 4: Algebra/trig
+
+
+###### 5: Ap Spanish
+
+
+###### 6: American Literature
+
+
+###### 7: U.S History
+
+
+###### 8: Lunch 
